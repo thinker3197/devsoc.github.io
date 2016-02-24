@@ -1,20 +1,20 @@
-html, body {
-	height: 100%;
-	width: 100%;
+html,
+body {
+    height: 100%;
+    width: 100%;
 }
 
 .intro {
-	display: table;
-  height: 100%;
-  width: 100%;
+    display: table;
+    height: 100%;
+    width: 100%;
 }
 
 .intro-body {
-  height: 50%;
-	display: table-cell;
-	vertical-align: middle;
+    height: 50%;
+    display: table-cell;
+    vertical-align: middle;
 }
-
 
 #particles-js {
     z-index: -20;
