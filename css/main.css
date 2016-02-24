@@ -18,7 +18,6 @@ body {
 
 #particles-js {
     z-index: -20;
-    position: absolute;
     width: 100%;
     height: 100%;
     background-color: #333;
