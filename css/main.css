@@ -1,0 +1,16 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.intro {
+	display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.intro-body {
+  height: 50%;
+	display: table-cell;
+	vertical-align: middle;
+}
